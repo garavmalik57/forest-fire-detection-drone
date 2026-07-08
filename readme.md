@@ -201,6 +201,7 @@ By combining these sensor values, the system can provide an early indication of 
 * Wildlife Reserve Monitoring
 * Industrial Safety Monitoring
 * Remote Sensor Networks
+* Border/Perimeter Surveillance
 
 ---
 
